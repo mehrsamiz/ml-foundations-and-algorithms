@@ -6,7 +6,7 @@ results. Built as coursework for an introductory Machine Learning course, plus a
 reproduction project.
 
 > Project — a from-scratch reproduction/implementation of a Q1-journal paper, with a
-> full report — lives in a separate repo: **[ https://github.com/mehrsamiz/clinical-ml-paper-replication.git ]**.
+> full report — lives in a separate repo: ** https://github.com/mehrsamiz/clinical-ml-paper-replication.git **.
 
 ## Why this repo
 
@@ -23,7 +23,7 @@ scikit-learn model, and actually reason about *why* the results look the way the
 | [03](03-knn-svm/) | **KNN & SVM** | Custom KNN, distance-metric comparison, SVM kernel/margin analysis |
 | [04](04-clustering-pca/) | **K-Means & PCA** | Custom clustering + PCA-based image compression |
 | [05](05-decision-trees-ensembles/) | **Decision Trees & Ensembles** | Depth tuning, feature importance, Random Forest vs. AdaBoost |
-| 06 | **Paper Reproduction** | Full implementation + report of a Q1-journal paper — see [ https://github.com/mehrsamiz/clinical-ml-paper-replication.git ] |
+| 06 | **Paper Reproduction** | Full implementation + report of a Q1-journal paper — see  https://github.com/mehrsamiz/clinical-ml-paper-replication.git  |
 
 Each folder has its own README with details, results, and instructions to run it.
 
