@@ -47,7 +47,7 @@ Each folder has its own README with details, results, and instructions to run it
 ## Setup
 
 ```bash
-git clone https://github.com/mehrsamiz/clinical-ml-paper-replication.git 
+git clone https://github.com/mehrsamiz/ml-foundations-and-algorithms
 cd ml-coursework
 pip install -r requirements.txt
 jupyter notebook
