@@ -6,7 +6,7 @@ results. Built as coursework for an introductory Machine Learning course, plus a
 reproduction project.
 
 > Project — a from-scratch reproduction/implementation of a Q1-journal paper, with a
-> full report — lives in a separate repo: ** https://github.com/mehrsamiz/clinical-ml-paper-replication.git **.
+> full report — lives in a separate repo: https://github.com/mehrsamiz/clinical-ml-paper-replication.git.
 
 ## Why this repo
 
